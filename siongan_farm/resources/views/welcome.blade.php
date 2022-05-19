@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Siongan Farm</title>
+        <title>Siongan Shop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -161,7 +161,7 @@
                         <div class="row">
                             <div class="col-md-6 align-items-center">
                                 <div class="slider-text">
-                                    <h2 class="tlt1">Sistem <br>Informasi <br>Siongan Farm</h2>
+                                    <h2 class="tlt1">Sistem <br>Informasi <br>Siongan Shop</h2>
                                     <div class="button-set">
                                         
                                         <a class="furits-slider-btn btn-hover animated" href="#shop-area">Shop Now</a>
@@ -257,7 +257,7 @@
                 <div class="container-fluid">
                     <div class="widget-wrapper">
                         <div class="footer-widget mb-30">
-                            <a href="#home-area"><img src="ezone/assets/img/logo/2.png" alt=""></a>
+                            <a href="#home-area"><img src="ezone/assets/img/logo/logoikan22.png" alt=""></a>
                             
                         </div>
                         <div class="footer-widget mb-30">
@@ -276,7 +276,7 @@
                                         <span>Phone: </span>
                                     </div>
                                     <div class="footer-info-content3">
-                                        <p>089527534278 <br>+8801 (66) 223352333</p>
+                                        <p>082131296499</p>
                                     </div>
                                 </div>
                                 <div class="footer-address-furniture">
@@ -284,7 +284,8 @@
                                         <span>E-mail: </span>
                                     </div>
                                     <div class="footer-info-content3">
-                                        <p><a href=""> Tosan@polije.ac.id</a> <br><a href="#"> domain@mail.info</a></p>
+                                        <p><a href=""> Iskandarzulkarnain5137@gmail.com</a> <br>  
+                                        <!-- <a href="#"> domain@mail.info</a> --></p>
                                     </div>
                                 </div>
                             </div>
