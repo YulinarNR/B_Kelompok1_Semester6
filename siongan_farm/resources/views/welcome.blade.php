@@ -323,7 +323,7 @@
 		<!-- all js here -->
         <script type="text/javascript">
             var botmanWidget = {
-                introMessage: "Hi, ada yang bisa kami bantu?",
+                introMessage: "Haloo, kami akun bot Siongan Shop",
                 aboutText: "ExpertRohila"
             };
         </script>
