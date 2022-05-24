@@ -179,9 +179,9 @@
         <div id="about-area" class="watch-about-area bg-img ptb-150" style="background-image: url(ezone/assets/img/bg/8.jpg)">
             <div class="container">
                 <div class="watch-about-content text-center">
-                    <img class="tilter" src="ezone/assets/img/banner/4.png" alt="" >
-                    <h2>Kebun Inovasi Polije</h2>
-                    <p>Kebun Inovasi bertujuan untuk menciptakan sumber daya manusia yang berkualitas. Beragam koleksi tanaman yang tersedia di Kebun Inovasi adalah semangka, melon, terong, bawang merah, jagung dan juga tanaman jeruk. Kegiatan pengelolaan lahan ini juga melibatkan instruktur yang ahli di bidang pertanian. Instruktur pertanian akan melakukan edukasi materi dan praktik langsung di lahan.</p>
+                    <img class="tilter" src="ezone/assets/img/banner/3(2).jpg" alt="" >
+                    <h2>SionganShop</h2>
+                    <p>SionganShop merupakan salah satu situs e commerce yang berpusat dijember. SionganShop bertujuan untuk meningkatkan penjualan bibit ikan lele maupun ikan lele konsumsi. Beragam koleksi jenis ikan lele yang dijual di SionganShop seperti jenis Mutiara,Masamo,Dumbo,Sangkuriang dengan harga yang ekonomis dan kualitas yang terjamin. SionganShop juga menawarkan sebuah fitur yang berfungsi untuk membimbing bagaimana cara pembudidayaan serta pembesaran ikan lele. </p>
                    
                 </div>
             </div>
@@ -193,7 +193,7 @@
         <div class="product-style-area gray-bg-4 pb-105">
             <div class="container-fluid">
                 <div class="section-title-furits bg-shape text-center mb-80">
-                    <img src="{{asset('ezone/assets/img/icon-img/49.png')}}" >
+                    <img src="{{asset('ezone/assets/img/icon-img/59.png')}}" >
                     <h2>Katalog</h2>
                 </div>
                 <div class="product-fruit-slider owl-carousel">

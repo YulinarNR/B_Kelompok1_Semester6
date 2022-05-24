@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>E-BUSI</title>
+        <title>SionganShop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -131,8 +131,8 @@
             <div class="container">
                 <div class="watch-about-content text-center">
                     <img class="tilter" src="ezone/assets/img/banner/4.png" alt="" >
-                    <h2>Kebun Inovasi Polije</h2>
-                    <p>Kebun Inovasi bertujuan untuk menciptakan sumber daya manusia yang berkualitas. Beragam koleksi tanaman yang tersedia di Kebun Inovasi adalah semangka, melon, terong, bawang merah, jagung dan juga tanaman jeruk. Kegiatan pengelolaan lahan ini juga melibatkan instruktur yang ahli di bidang pertanian. Instruktur pertanian akan melakukan edukasi materi dan praktik langsung di lahan.</p>
+                    <h2>SionganShop</h2>
+                    <p>Iskandar</p>
                    
                 </div>
             </div>
