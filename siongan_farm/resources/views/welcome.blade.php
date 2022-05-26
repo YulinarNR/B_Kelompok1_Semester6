@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Siongan Shop</title>
+        <title>SionganShop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -154,7 +154,7 @@
        
         <!-- header end -->
         <!-- slider start -->
-        <div id="home-area" class="height-100vh bg-img watch-slider" style="background-image: url(ezone/assets/img/slider/10.jpg)">
+        <div id="home-area" class="height-100vh bg-img watch-slider" style="background-image: url(ezone/assets/img/slider/10_.png)">
             <div class="table">
                 <div class="table-cell">
                     <div class="container">
@@ -193,7 +193,7 @@
         <div class="product-style-area gray-bg-4 pb-105">
             <div class="container-fluid">
                 <div class="section-title-furits bg-shape text-center mb-80">
-                    <img src="{{asset('ezone/assets/img/icon-img/59.png')}}" >
+                    <img src="{{asset('ezone/assets/img/icon-img/63.png')}}" >
                     <h2>Katalog</h2>
                 </div>
                 <div class="product-fruit-slider owl-carousel">

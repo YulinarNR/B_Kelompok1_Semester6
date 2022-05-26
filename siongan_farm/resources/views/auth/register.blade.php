@@ -3,7 +3,7 @@
 @section('content')
 
 				<div class="image-holder">
-					<img src="loginn/images/register.jpg" alt="">
+					<img src="loginn/images/lele.png" alt="">
 				</div>
 				<form method="POST" action="{{ route('register') }}">
                 @csrf

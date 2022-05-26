@@ -4881,7 +4881,7 @@ a.icon-cart-furniture span.green {
     z-index: 99999;
 }
 .header-sticky.stick {
-    background: #578a01;
+    background: #004a8d;
     padding: 15px 0;
     position: fixed;
     top: 0;
@@ -8607,6 +8607,7 @@ a.bundle-btn {
 }
 .furits-login-cart {
     display: flex;
+
 }
 .furits-login li {
     display: inline-block;
@@ -8617,14 +8618,14 @@ a.bundle-btn {
     margin-left: 0px;
 }
 .furits-login li a {
-    color: #969696;
+    color: #ccc;
     text-transform: uppercase;
 }
 .furits-login {
     padding: 20px 0 10px;
 }
 .furits-login li::after {
-    background-color: #969696;
+    background-color: #ccc;
     content: "";
     font-size: 8px;
     height: 12px;
@@ -8637,13 +8638,13 @@ a.bundle-btn {
     content: none;
 }
 .header-cart-4.furits-cart > a span {
-    background-color: #68a001;
+    background-color: #ffffff;
 }
 .header-cart-4.furits-cart > a > i {
     color: #00245b;
 }
 .furits-login li a:hover {
-    color: #68a001;
+    color: #ffffff;
 }
 
 /* 23.2 Slider style of fruits */
@@ -8685,7 +8686,7 @@ a.bundle-btn {
     width: inherit;
 }
 .furits-slider-btn {
-    background-color: #85bd02;
+    background-color: #004a8d;
     border-radius: 50px;
     color: #fffffe;
     display: inline-block;
@@ -8858,10 +8859,10 @@ a.bundle-btn {
     color: #444444;
 }
 .product-fruit-content > h4 a:hover {
-    color: #85bd02;
+    color: #000;
 }
 .product-fruit-content > span {
-    color: #85bd02;
+    color: #0275e6;
     font-size: 18px;
 }
 .product-fruit-content {
@@ -8906,7 +8907,7 @@ a.bundle-btn {
     position: relative;
 }
 .section-title-furits > h2::before {
-    background-color: #85bd02;
+    background-color: #03bffc;
     bottom: -13px;
     content: "";
     height: 2px;
@@ -8915,7 +8916,7 @@ a.bundle-btn {
     position: absolute;
     right: 0;
     text-align: center;
-    width: 60px;
+    width: 100px;
 }
 .section-title-furits {
     position: relative;

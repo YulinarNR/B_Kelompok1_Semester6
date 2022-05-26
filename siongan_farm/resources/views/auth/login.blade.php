@@ -3,7 +3,7 @@
 @section('content')
 
       <div class="image-holder">
-					<img src="{{asset('loginn/images/login.jpg')}}" alt="">
+					<img src="{{asset('loginn/images/lele.png')}}" alt="">
 				</div>
 				<form action="{{ route('login')}}" class="sign-in-form" method="post">
 					<h3>Login</h3>

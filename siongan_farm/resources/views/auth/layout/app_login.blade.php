@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>E-BUSI</title>
+		<title>SionganShop</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<!-- MATERIAL DESIGN ICONIC FONT -->
@@ -14,7 +14,7 @@
 
 	<body>
 
-		<div class="wrapper" style="background-image: url('loginn/images/bg-registration-form-1.jpg');">
+		<div class="wrapper" style="background-image: url('loginn/images/7.jpg');">
     <div class="inner">
         @yield('content')
         
