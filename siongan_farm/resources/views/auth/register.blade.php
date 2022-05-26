@@ -66,7 +66,9 @@
 						<i class="zmdi zmdi-arrow-right"></i>
 					</button>
 					<center>
+                    <div class="klikdisini">
 					<p>Sudah punya akun? <a href ="{{ route('login') }}">Klik disini</a></p>
+</div>
 				</center>
 				</form>
 			</div>

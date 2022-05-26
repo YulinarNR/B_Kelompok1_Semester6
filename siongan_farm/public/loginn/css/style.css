@@ -72,14 +72,19 @@ a:hover {
       margin-right: 25px; }
 
 .form-wrapper {
-  position: relative; }
+  position: relative;
+ 
+}
+
   .form-wrapper i {
+    
     position: absolute;
-    bottom: 9px;
-    right: 0; }
+    bottom: 10px;
+    right: 10px;
+   color: #042241; }
 
 .form-control {
-  border: 1px solid #333;
+  border: 5px solid #042241;
   border-top: none;
   border-right: none;
   border-left: none;
@@ -87,8 +92,10 @@ a:hover {
   width: 100%;
   height: 30px;
   padding: 0;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+ }
   .form-control::-webkit-input-placeholder {
+   
     font-size: 13px;
     color: rgb(51, 51, 51);
     font-family: "Poppins-Regular"; }
@@ -112,6 +119,13 @@ select {
   padding-left: 20px; }
   select option[value=""][disabled] {
     display: none; }
+
+.klikdisini{
+  color: white;
+}
+.klikdisini a {
+  color: yellow;
+}
 
 button {
   border: none;

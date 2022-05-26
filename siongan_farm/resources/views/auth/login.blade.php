@@ -12,6 +12,7 @@
           <div class="alert alert-danger">{{ session('error') }}</div>
           @endif
 					<br>
+         
 					<div class="form-wrapper">
 						<input id="username" type="text" class="form-control"  @error('usernames') is-invalid @enderror" name="username" 
             value="{{ old('username') }}" required autocomplete="username" placeholder="Username" autofocus  />
@@ -22,6 +23,7 @@
                 </span>
               @enderror
 					</div>
+
 					
 					<div class="form-wrapper">
 						<input id="password" type="password" placeholder="Password" class="form-control" @error('password') is-invalid @enderror" name="password"
@@ -36,13 +38,15 @@
                 
 					
                         <button>Login <i type="submit" value="Login"  ></i>
-                        <div class="bzmdi zmdi-arrow-right">
+                        <div class="zmdi zmdi-arrow-right">
                             
                         </button>
                         <br>
                         <center>
+                          <div class="klikdisini">
                         <p>Belum punya akun? <a href ="{{ route('register') }}">Klik disini</a></p>
-                    </center>
+</div>
+                      </center>
                 </br>
                 
                     

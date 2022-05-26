@@ -418,9 +418,11 @@
 }
 
 /* 2.4 Cart style */
-
+.keranjang{
+    color: white;
+}
 .icon-cart i {
-    color: #050035;
+    color: white;
     font-size: 35px;
     transition: all .3s ease 0s;
 }
@@ -7585,6 +7587,15 @@ h5.panel-title {
     width: 30px;
     line-height: 30px;
 }
+.warna{
+    background-color: #00245b;
+}
+.warna a:hover{
+    background-color: #0275e6;
+}
+.keranjang{
+    color: white;
+}
 .product-details-cati-tag li a:hover {
     color: #050035;
 }
@@ -7882,7 +7893,7 @@ a.bundle-btn {
 .table-content.table-responsive.compare-style thead {
     border-bottom: 1px solid #f1f1f1;
 }
-.table-content.table-responsive.compare-style tbody tr:last-child {
+.table-content.table-responsive.compare-style tq tr:last-child {
     border-bottom: 0px solid #f1f1f1;
 }
 .table-content.compare-style thead {
@@ -8641,7 +8652,7 @@ a.bundle-btn {
     background-color: #ffffff;
 }
 .header-cart-4.furits-cart > a > i {
-    color: #00245b;
+    color: white;
 }
 .furits-login li a:hover {
     color: #ffffff;
@@ -8859,7 +8870,7 @@ a.bundle-btn {
     color: #444444;
 }
 .product-fruit-content > h4 a:hover {
-    color: #000;
+    color: #0275e6;
 }
 .product-fruit-content > span {
     color: #0275e6;
