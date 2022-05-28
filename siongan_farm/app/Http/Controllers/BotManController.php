@@ -23,7 +23,7 @@ class BotManController extends Controller
 
     public function askName($botman){
         $botman->ask("Salam kenal ya, semoga chat ini bisa ngebantu komunikasi kita makin lancar. Apa ada 
-        yang bisa kami bantu?", function(Answer $answer){
+        yang bisa kami bantu? Kami menyediakan layanan konsultasi mengenai perawatan air, ikan dan lain sebagainya. ", function(Answer $answer){
             $name = $answer->getText();
 
             $this->say('Nice to meet you'.$name);
