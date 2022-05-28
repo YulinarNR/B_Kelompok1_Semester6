@@ -73,8 +73,9 @@
                                     {{ Auth::user()->name }}
                                 </a>
 
-                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ url('profile') }}">
+                                <div class="dropdown-menu dropdown-menu-right warna" aria-labelledby="navbarDropdown">
+                                  
+                                <a class="dropdown-item " href="{{ url('profile') }}">
                                      <i class="pe-7s-user"></i> Profile
                                     </a>
 
@@ -161,7 +162,7 @@
                         <div class="row">
                             <div class="col-md-6 align-items-center">
                                 <div class="slider-text">
-                                    <h2 class="tlt1">Sistem <br>Informasi <br>Siongan Shop</h2>
+                                 <!--class="tlt1"-->    <h2 >Sistem <br>Informasi <br>Siongan Shop</h2> 
                                     <div class="button-set">
                                         
                                         <a class="furits-slider-btn btn-hover animated" href="#shop-area">Shop Now</a>

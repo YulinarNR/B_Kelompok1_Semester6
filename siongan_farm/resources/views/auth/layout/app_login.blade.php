@@ -7,7 +7,7 @@
 		
 		<!-- MATERIAL DESIGN ICONIC FONT -->
 		<link rel="stylesheet" href="{{asset('loginn/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css')}}">
-
+		<link rel="shortcut icon" type="image/x-icon" href="{{asset('ezone/assets/img/logoikan.png')}}">
 		<!-- STYLE CSS -->
 		<link rel="stylesheet" href="{{asset('loginn/css/style.css')}}">
 	</head>
