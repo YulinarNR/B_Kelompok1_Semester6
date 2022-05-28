@@ -11,7 +11,7 @@
                 <div class="card-body">
                     <div class="form-row">
                         
-                        <h5 class="m-0 font-weight-bold text-success">Riwayat Pemesanan</h5>
+                        <h5 class="m-0 font-weight-bold text-checkout">Riwayat Pemesanan</h5>
                         <!-- CARA NARUH KANAN TULISAN!!! -->
                         <!-- <h5 class="" text-align="right">djf</h5>     -->
                         </div>
