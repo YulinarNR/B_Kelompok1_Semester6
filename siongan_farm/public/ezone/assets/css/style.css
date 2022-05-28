@@ -4883,7 +4883,7 @@ a.icon-cart-furniture span.green {
     z-index: 99999;
 }
 .header-sticky.stick {
-    background: #004a8d;
+    background: #00245b;
     padding: 15px 0;
     position: fixed;
     top: 0;
@@ -4968,7 +4968,7 @@ a.icon-cart-furniture span.green {
 .buy-now-btn > a {
     background-color: #fff;
     border-radius: 50px;
-    color: #578a01;
+    color: #00245b;
     display: inline-block;
     font-weight: bold;
     letter-spacing: 0.5px;
@@ -5010,7 +5010,7 @@ a.icon-cart-furniture span.green {
 .explore-btn {
     background-color: #f4f4f4;
     border-radius: 50px;
-    color: #578a01;
+    color: #00245b;
     display: inline-block;
     font-weight: bold;
     letter-spacing: 0.5px;

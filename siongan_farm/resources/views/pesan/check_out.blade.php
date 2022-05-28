@@ -25,7 +25,7 @@
 
         <style type="text/css">
             .logo-menu-wrapper{
-            background-color: blue;
+            background-color: #00245b;
             font-family: "Open Sans", sans-serif;
             font-size: 12px;
             line-height: 29px;
