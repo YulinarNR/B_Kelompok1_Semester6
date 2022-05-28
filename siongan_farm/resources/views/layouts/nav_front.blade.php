@@ -4,11 +4,11 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>E-BUSI - eCommerce Kebun Inovasi</title>
+        <title>SionganShop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('ezone/assets/img/favicon.png')}}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('ezone/assets/img/logoikan.png')}}">
 		
 		<!-- all css here -->
         <link rel="stylesheet" href="{{asset('ezone/assets/css/bootstrap.min.css') }}">
@@ -26,7 +26,7 @@
 
         <style type="text/css">
             .logo-menu-wrapper{
-            background-color: #6B8E23;
+            background-color:#00245b ;
             font-family: "Open Sans", sans-serif;
             font-size: 12px;
             line-height: 29px;
@@ -45,7 +45,7 @@
                
                     <div class="logo-menu-wrapper ">
                         <div class="logo-watch navbar-header">
-                            <a class="navbar-brand" href=""><img src="ezone/assets/img/logo/logo-6.png" alt=""></a>
+                            <a class="navbar-brand" href=""><img src="ezone/assets/img/logo/logoikan4.png" alt=""></a>
                         </div>
                         <div class="hamburger-wrapper">
                             <div class="hamburger-menu  " >

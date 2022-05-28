@@ -7094,6 +7094,8 @@ p.checkout-coupon input[type="submit"] {
     border: 1px solid #050035;
     color: #fff;
 }
+.text-checkout{
+    color:#004a8d ;}
 .coupon-info p.form-row input[type="submit"] {
     background: #252525 none repeat scroll 0 0;
     border: medium none;

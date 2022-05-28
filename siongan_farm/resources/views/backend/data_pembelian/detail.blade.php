@@ -10,7 +10,7 @@
                <!-- Card Body -->
                <div class="card-body">
                  
-                  <h5 class="m-0 font-weight-bold text-primary">Data Detail Pembelian</h5><hr>
+                  <h5 class="m-0 font-weight-bold text-checkout">Data Detail Pembelian</h5><hr>
                
                     <div class="form-row">
                     <div class="col-md-4" style="text-align: justify;">

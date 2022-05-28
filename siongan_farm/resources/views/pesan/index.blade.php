@@ -163,7 +163,7 @@
                 <div class="card-body">
                     <div class="form-row">
                         
-                        <h5 class="m-0 font-weight-bold text-success">Data Detail Produk</h5>
+                        <h5 class="m-0 font-weight-bold text-checkout">Data Detail Produk</h5>
                         <!-- CARA NARUH KANAN TULISAN!!! -->
                         <!-- <h5 class="" text-align="right">djf</h5>     -->
                         </div>
@@ -171,7 +171,7 @@
                         <div class="form-row">
                         <div class="col-md-6 mt-5">
                        
-                            <center><label style="background-color: rgb(135 206 250); "> Foto Produk </label></center><br><br>
+                            <center>Foto Produk </center><br><br>
                             <center><img src="{{ url('uploads') }}/{{ $produk->foto_produk}}" width="63%" alt=""></center>
                         </div>
 

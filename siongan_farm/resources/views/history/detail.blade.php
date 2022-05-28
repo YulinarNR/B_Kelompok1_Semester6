@@ -8,7 +8,7 @@
             <div class="col-md-12 mt-3">
             <div class="card">
                 <div class="card-body">
-                <h5 class="m-0 font-weight-bold text-success">Detail Pemesanan</h5><br>
+                <h5 class="m-0 font-weight-bold text-checkout">Detail Pemesanan</h5><br>
                 <h3>Sukses Check Out</h3> 
                 <h5>Silahkan tunjukkan rincian ini kepada penjual saat melakukan <b>COD</b></h5>
                 <!-- <p><a href="{{ url('cetak_detail') }}" target="_blank" class="btn btn-warning btn-sm text-white">Cetak Nota</a></p> -->

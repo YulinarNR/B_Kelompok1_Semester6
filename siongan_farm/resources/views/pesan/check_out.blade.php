@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Siongan Shop</title>
+        <title>SionganShop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -164,7 +164,7 @@
                 <div class="card-body">
                     <div class="form-row">
                         
-                        <h5 class="m-0 font-weight-bold text-success">Keranjang Belanja</h5>
+                        <h5 class="m-0 font-weight-bold text-checkout">Keranjang Belanja</h5>
                         <!-- CARA NARUH KANAN TULISAN!!! -->
                         <!-- <h5 class="" text-align="right">djf</h5>     -->
                         </div>
