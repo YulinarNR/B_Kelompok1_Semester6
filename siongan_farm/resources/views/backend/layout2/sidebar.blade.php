@@ -1,11 +1,13 @@
 <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+    
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="">
         <div class="sidebar-brand-icon">
-            <i class="fab fa-laravel"></i>
+            <!-- <i class="fab fa-laravel"></i> -->
+            <img src="ezone/assets/img/logo/logoikan6.png" alt="">
         </div>
-        <div class="sidebar-brand-text mx-3">E-BUSI</div>
+        <!-- <div class="sidebar-brand-text mx-3">SionganShop</div> -->
     </a>
 
     <!-- Divider -->

@@ -3,6 +3,7 @@
     'pageTitle' => 'Dashboard'
 ])
 @section('content')
+<link rel="shortcut icon" type="image/x-icon" href="{{asset('ezone/assets/img/logoikan.png')}}">
 <!-- Content Row -->
 <div class="row">
 
